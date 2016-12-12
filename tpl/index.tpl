@@ -4,7 +4,7 @@
 <body>
 	<!--button id="b1" onclick="showform()">Show Form</button><br><br>-->
 	<h1>Gestione Utenti</h1>
-	<form id="form1" action="http://127.0.0.1:8000/" method="post">
+	<form id="form1" action="/" method="post">
 		<label id="l1">Name:</label> <input name="username" type="text" id="name">
 		<label id="l2">Surname:</label> <input name="surname" type="text"  id="surname">
 		<label id="l3">Level:</label> <input name="level" type="text" id="level">
