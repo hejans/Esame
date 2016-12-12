@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hejans/Esame/issues"
   },
-  "homepage": "https://github.com/hejans/Esame#readme"
+  "homepage": "https://github.com/hejans/Esame#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
